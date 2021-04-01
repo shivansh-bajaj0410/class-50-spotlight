@@ -1,0 +1,35 @@
+h1{
+    color:red;
+}
+*{
+    border:solid
+}
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    background-color: burlywood;
+}
+.games{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: cadetblue;
+}
+.platforms{
+    display: flex;
+    justify-content: last baseline;
+    background-color: antiquewhite;
+}
+.items{
+    display: flex;
+    border-color: cornflowerblue;
+    background-color: deeppink;
+}
+.socialMedia{
+    display: flex;
+    box-shadow: gold;
+    border-style: outset;
+    background-color: magenta;
+}
